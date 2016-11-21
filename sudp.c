@@ -9,7 +9,7 @@
 	Usage: ./a.out ip port time ipfile.txt message
 */
 #include <stdio.h>
-#include <stdlb.h>
+#include <stdlib.h>
 #include <netinet/tcp.h>
 #include <netinet/udp.h>
 #include <netinet/ip.h>
